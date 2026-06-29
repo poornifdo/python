@@ -27,7 +27,3 @@ python exercise1.py
 ## Contributing
 
 Add new exercises as separate .py files and update this README.
-
-## License
-
-Public domain / MIT-style — use freely.
