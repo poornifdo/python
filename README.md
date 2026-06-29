@@ -23,7 +23,3 @@ Run Python files from the command line, for example:
 ```
 python exercise1.py
 ```
-
-## Contributing
-
-Add new exercises as separate .py files and update this README.
